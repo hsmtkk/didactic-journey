@@ -1,3 +1,3 @@
 <template>
-    <UserList />
+    <ChatBoard />
 </template>

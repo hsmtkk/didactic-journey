@@ -1,3 +1,3 @@
 <template>
-    <UserList />
+    <p>About</p>
 </template>
